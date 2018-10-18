@@ -1,5 +1,7 @@
 # README
 
+Link to the game - https://drive.google.com/file/d/1Gx3Bqb1I1OY89crrMkzqrwiWChA8YQMm/view?usp=sharing
+
 Types of games I'm interested in developing:
 
 1. Title: Footprint
