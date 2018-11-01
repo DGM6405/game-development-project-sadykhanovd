@@ -1,5 +1,7 @@
 # README
 
+Link to the NEW prototype (Mac) - https://drive.google.com/file/d/1U7tM2wy7lto0izmO0dl2PyNQ2NasjYJ3/view?usp=sharing
+
 Link to the prototype (Mac) - https://drive.google.com/file/d/1sQfF2UVoOmmx7XntnYlKm-tgprvinM9w/view?usp=sharing
 
 Link to the prototype (Windows) - https://drive.google.com/file/d/1aR2W8-9dTn5zd7uGlhE4TecB1uwsfKQq/view?usp=sharing
