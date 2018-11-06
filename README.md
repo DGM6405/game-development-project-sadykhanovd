@@ -2,13 +2,15 @@
 
 Game files (will try to upload to GitHub soon) - https://drive.google.com/file/d/1mfcihxqpZPzPNdZFCZGuyBNb7_kVg2br/view?usp=sharing
 
-Link to the NEW prototype (Mac) - https://drive.google.com/file/d/1U7tM2wy7lto0izmO0dl2PyNQ2NasjYJ3/view?usp=sharing
+Link to the second prototype (Mac) - https://drive.google.com/file/d/1U7tM2wy7lto0izmO0dl2PyNQ2NasjYJ3/view?usp=sharing
 
-Link to the NEW prototype (Windows) - https://drive.google.com/file/d/1hFuXEomFqwcb3mD3o-Sv16_NcgkjLl9D/view?usp=sharing
+Link to the second prototype (Windows) - https://drive.google.com/file/d/1hFuXEomFqwcb3mD3o-Sv16_NcgkjLl9D/view?usp=sharing
 
 Link to the prototype (Mac) - https://drive.google.com/file/d/1sQfF2UVoOmmx7XntnYlKm-tgprvinM9w/view?usp=sharing
 
 Link to the prototype (Windows) - https://drive.google.com/file/d/1aR2W8-9dTn5zd7uGlhE4TecB1uwsfKQq/view?usp=sharing
+
+
 
 Types of games I'm interested in developing:
 
