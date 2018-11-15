@@ -1,6 +1,6 @@
 # README
 
-Game files (will try to upload to GitHub soon) - https://drive.google.com/file/d/1mfcihxqpZPzPNdZFCZGuyBNb7_kVg2br/view?usp=sharing
+Game files - https://drive.google.com/file/d/1mfcihxqpZPzPNdZFCZGuyBNb7_kVg2br/view?usp=sharing
 
 Link to the third prototype (Mac) - https://drive.google.com/file/d/1I1LmYyvMuWCd0WuUUa1i50QEKAmjSip6/view?usp=sharing
 
