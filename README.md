@@ -2,7 +2,7 @@
 
 Game files - https://drive.google.com/file/d/1mfcihxqpZPzPNdZFCZGuyBNb7_kVg2br/view?usp=sharing
 
-Link to the third prototype (Mac) - https://drive.google.com/file/d/1ak_kqcjNk4o5EFZNtwWsnqYsNebjPJcg/view?usp=sharing
+Link to the third prototype (Mac) - https://drive.google.com/file/d/181Y1eNbyNFP9GKNPnRGWTPVdbIdRcI7S/view?usp=sharing
 
 Link to the second prototype (Mac) - https://drive.google.com/file/d/1U7tM2wy7lto0izmO0dl2PyNQ2NasjYJ3/view?usp=sharing
 
